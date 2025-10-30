@@ -12,8 +12,10 @@ langchain-huggingface
 hf_xet
 llama-index-core==0.10.30
 llama-index-readers-file
+llama-index-llms-openai
 llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 accelerate
 torch
+
 
