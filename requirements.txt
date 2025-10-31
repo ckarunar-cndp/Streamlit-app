@@ -33,12 +33,13 @@ numpy
 #python-docx
 pdfminer.six
 pillow
-faiss-cpu
+#faiss-cpu
 tqdm
 requests
 unstructured[pdf]
 tenacity
 beautifulsoup4
+
 
 
 
